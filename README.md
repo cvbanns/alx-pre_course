@@ -1,2 +1,2 @@
 My first Repo Session
-Updated readme file
+git pull
